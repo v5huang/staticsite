@@ -1,8 +1,8 @@
 {
   "data":
   [ 
-	{"pkgname":"com.kaiyou.kgukabook1a","appname":"咕卡手帳遊戲咕卡貼紙"},
-	{"pkgname":"com.kaiyou.kfoodstreet1a","appname":"真香夜市攤燒烤煎餅果子"}
-	
+	{"pkgname":"com.kaiyou.kstoragedog1a","appname":"收納遊戲收納達人物語"},
+	{"pkgname":"com.kaiyou.kfoodstreet1a","appname":"真香夜市攤燒烤煎餅果子"},
+	{"pkgname":"com.kaiyou.kgukabook1a","appname":"咕卡手帳遊戲咕卡貼紙"}
   ]
 }
