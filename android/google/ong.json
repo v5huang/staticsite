@@ -1,8 +1,8 @@
 {
   "data":
   [ 
+	{"pkgname":"com.kaiyou.kmakecoffee1a","appname":"可口的咖啡美味的咖啡"},
 	{"pkgname":"com.kaiyou.kstario1a","appname":"流浪小星球-吞噬星球"},
-	{"pkgname":"com.gstudio.ggunswitch1a","appname":"惡魔輪盤賭-子彈輪盤"},
 	{"pkgname":"com.gstudio.gisland1a","appname":"木筏求生荒島綠色地獄"},
 	{"pkgname":"com.fmobolove.frollball1a","appname":"球球大作戰球球跑酷3D"},
 	{"pkgname":"com.kaiyou.kislandlive1a","appname":"荒島求生存木筏求生海洋"},
@@ -10,6 +10,7 @@
 	{"pkgname":"com.kaiyou.kstoragecat1a","appname":"收納解壓收納達人物語"},
 	{"pkgname":"com.gstudio.gnumbaby1a","appname":"開局托兒所-湊個10遊戲"}, 
 	{"pkgname":"com.fmobolove.fknifemaster1a","appname":"蘿蔔刀遊戲-武器鍛造大師"},
+	{"pkgname":"com.gstudio.ggunswitch1a","appname":"惡魔輪盤賭-子彈輪盤"},
 	{"pkgname":"com.kaiyou.kstoragedog1a","appname":"收納遊戲收納達人物語"},
 	{"pkgname":"com.gstudio.gstickwar1a","appname":"火柴人戰爭遺産模擬器"},
 	{"pkgname":"com.kaiyou.kfoodstreet1a","appname":"真香夜市攤燒烤煎餅果子"},
