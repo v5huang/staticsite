@@ -1,29 +1,7 @@
 {
   "data":
-  [  
-	{"pkgname":"com.fmobolove.fstickworld1a","appname":"火柴人大乱斗"},
-	{"pkgname":"com.fmobolove.fghostoffer1a","appname":"猛鬼宿舍-躺平发育"},
-	{"pkgname":"com.kaiyou.kzombileworld1a","appname":"躺平发育-猛鬼宿舍"},
-	{"pkgname":"com.gstudio.gzombiebullet1a","appname":"屍潮戰車"},
-	{"pkgname":"com.fmobolove.fbrainholl1a","appname":"规则怪谈脑洞找茬王"},
-	{"pkgname":"com.kaiyou.kflowermake1a","appname":"筑梦空间"},
-	{"pkgname":"com.gstudio.gstoryworld1a","appname":"一代梗王玩梗高手"},
-	{"pkgname":"com.gstudio.glifesim1a","appname":"紙牌人生-快樂方塊屋"},
-	{"pkgname":"com.gstudio.gbrainholl1a","appname":"規則怪談-隱秘的檔案"},
-	{"pkgname":"com.kaiyou.krulestory2a","appname":"玩梗高手-規則怪談"},
-	{"pkgname":"com.kaiyou.kstoragedog2a","appname":"收纳游戏收纳大师"},
-	{"pkgname":"com.gstudio.gbaghero1a","appname":"背包英雄背包乱斗"},
-	{"pkgname":"com.gstudio.gghosthome1a","appname":"猛鬼宿舍躲猫猫"},
-	{"pkgname":"com.fmobolove.frulestory1a","appname":"規則怪談-隱秘的檔案"},
-	{"pkgname":"com.kaiyou.kcatstorage1a","appname":"收納達人收納物語收納遊戲"}, 
-	{"pkgname":"com.kaiyou.kbagmaste1a","appname":"背包英雄背包幸存者"},
-	{"pkgname":"com.kaiyou.kstorelive1a","appname":"收納物語收納遊戲收納達人"},
-	{"pkgname":"com.kaiyou.kmakecoffee1a","appname":"可口的咖啡美味的咖啡"}, 
-	{"pkgname":"com.fmobolove.fstickman1a","appname":"火柴人逃亡大冒險"},
-	{"pkgname":"com.kaiyou.kstoragecat1a","appname":"收納解壓收納達人物語"}, 
-	{"pkgname":"com.kaiyou.kstoragedog1a","appname":"收納遊戲收納達人物語"},
-	{"pkgname":"com.gstudio.gstickwar1a","appname":"火柴人戰爭遺産模擬器"},
-	{"pkgname":"com.kaiyou.kfoodstreet1a","appname":"真香夜市攤燒烤煎餅果子"},
-	{"pkgname":"com.kaiyou.kgukabook1a","appname":"咕卡手帳遊戲咕卡貼紙"}
+  [    
+	{"pkgname":"com.fmobolove.fturtlemerge1a","appname":"乌龟对对碰拆盲盒"},
+	{"pkgname":"com.kaiyou.kturtlebag1a","appname":"乌龟拆盲盒对对碰"}
   ]
 }
