@@ -1,34 +1,7 @@
 {
 	"data":
 	[   
-	  {"pkgname":"com.gstudio.gturtlemerge1a","appname":"烏龜消消消拆盲盒"},
-	  {"pkgname":"com.fmobolove.fghostoffer1a","appname":"猛鬼宿舍-躺平發育"},
-	  {"pkgname":"com.kaiyou.kturtlebag1a","appname":"烏龜拆盲盒對對碰"},
-	  {"pkgname":"com.kaiyou.ktwobattle3a","appname":"離線遊戲合集-No Wifi Games"},
-	  {"pkgname":"com.kaiyou.kzombileworld1a","appname":"躺平發育-猛鬼宿舍"},
-	  {"pkgname":"com.kaiyou.kpaperlife1a","appname":"紙牌人生-模擬人生"},
-	  {"pkgname":"com.gstudio.gcutgrass1a","appname":"吸血鬼幸存者割草肉鴿"},
-	  {"pkgname":"com.fmobolove.fhiddensecret1a","appname":"規則怪談-隱藏檔案"},
-	  {"pkgname":"com.fmobolove.fbrainholl1a","appname":"規則怪談腦洞找茬王"},
-	  {"pkgname":"com.fmobolove.fturtlemerge1a","appname":"烏龜對對碰拆盲盒"},
-	  {"pkgname":"com.gstudio.gkillking1a","appname":"我要當國王-刺殺國王"},
-	  {"pkgname":"com.fmobolove.fshaweimacook1a","appname":"可口的沙威瑪傳奇"},
-	  {"pkgname":"com.kaiyou.kpancake1a","appname":"可口的煎餅美味的煎餅"},
-	  {"pkgname":"com.gstudio.gstoryworld1a","appname":"一代梗王玩梗高手"},
-	  {"pkgname":"com.gstudio.glifesim1a","appname":"紙牌人生-快樂方塊屋"},
-	  {"pkgname":"com.fmobolove.flifepaper1a","appname":"紙牌人生-逆襲人生"},
-	  {"pkgname":"com.gstudio.gbrainholl1a","appname":"規則怪談-隱秘的檔案"},
-	  {"pkgname":"com.kaiyou.krulestory2a","appname":"玩梗高手-規則怪談"},
-	  {"pkgname":"com.kaiyou.kstoragedog2a","appname":"收納遊戲收納大師"},
-	  {"pkgname":"com.gstudio.gghosthome1a","appname":"猛鬼宿舍躲貓貓"},
-	  {"pkgname":"com.fmobolove.frulestory1a","appname":"規則怪談-隱秘的檔案"},
-	  {"pkgname":"com.kaiyou.kcatstorage1a","appname":"收納達人收納物語收納遊戲"}, 
-	  {"pkgname":"com.kaiyou.kstorelive1a","appname":"收納物語收納遊戲收納達人"},
-	  {"pkgname":"com.kaiyou.kmakecoffee1a","appname":"可口的咖啡美味的咖啡"}, 
-	  {"pkgname":"com.fmobolove.fstickman1a","appname":"火柴人逃亡大冒險"},
-	  {"pkgname":"com.kaiyou.kstoragecat1a","appname":"收納解壓收納達人物語"}, 
-	  {"pkgname":"com.kaiyou.kstoragedog1a","appname":"收納遊戲收納達人物語"},
-	  {"pkgname":"com.gstudio.gstickwar1a","appname":"火柴人戰爭遺産模擬器"},
-	  {"pkgname":"com.kaiyou.kfoodstreet1a","appname":"真香夜市攤燒烤煎餅果子"}
+	  {"pkgname":"com.fmobolove.fofflinegames","appname":"離線遊戲合集 - Offline Games"}, 
+	  {"pkgname":"com.kaiyou.ktwobattle3a","appname":"離線遊戲合集 - No Wifi Games"}
 	]
 }
