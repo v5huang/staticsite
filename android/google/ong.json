@@ -1,7 +1,8 @@
 {
 	"data":
-	[   
-	  {"pkgname":"com.fmobolove.fofflinegames","appname":"離線遊戲合集 - Offline Games"}, 
-	  {"pkgname":"com.kaiyou.ktwobattle3a","appname":"離線遊戲合集 - No Wifi Games"}
+	[    
+	  {"pkgname":"com.fmobolove.fofflinegames","appname":"離線遊戲合集 - Offline Games"},  
+	  {"pkgname":"com.gstudio.gcutgrass1a","appname":"吸血鬼幸存者割草肉鴿"}, 
+	  {"pkgname":"com.kaiyou.kpancake1a","appname":"可口的煎餅美味的煎餅"}
 	]
 }
