@@ -9,7 +9,8 @@
 	  {"pkgname":"com.kaiyou.kterrormom1a","appname":"恐怖奶奶躲貓貓"},  	  
 	  {"pkgname":"com.kaiyou.ksurvalisland1a","appname":"荒島求生荒野求生"},   
 	  {"pkgname":"com.kaiyou.kislandlive2a","appname":"木筏求生存荒島求生"},      
-	  {"pkgname":"com.kaiyou.khorrorroom1a","appname":"逃離家暴郵箱-恐怖奶奶"},   
+	  {"pkgname":"com.kaiyou.khorrorroom1a","appname":"逃離家暴郵箱-恐怖奶奶"},  
+	  {"pkgname":"com.kaiyou.kmarketsim1a","appname":"超市模拟器超市经营模拟器"},   
 	  {"pkgname":"com.gstudio.gcardrop1a","appname":"車禍模擬器3"},   
 	  {"pkgname":"com.gstudio.gcardstore1a","appname":"卡牌商店模擬器"},       
 	  {"pkgname":"com.lstudio.lpixelshot1a","appname":"战地模拟器"},  
@@ -17,7 +18,8 @@
 	  {"pkgname":"com.lstudio.lspacex1a","appname":"飛機模擬器飛行"}, 
 	  {"pkgname":"com.lstudio.llifenixi1a","appname":"逆袭人生模拟器"}, 
 	  {"pkgname":"com.lstudio.ltungtung1a","appname":"山海经外国版Tung Tung"},  
-	  {"pkgname":"com.lstudio.l8fangroom1a","appname":"8号出口站台"},    
+	  {"pkgname":"com.lstudio.l8fangroom1a","appname":"8号出口站台"},   
+	  {"pkgname":"com.lstudio.lstickman3a","appname":"火柴人绳索英雄"},      
 	  {"pkgname":"com.mobocenter.petblastcool","appname":"寵物消消樂糖果消消樂"},       
 	  {"pkgname":"com.mobocenter.starblastcool","appname":"星星消消樂糖果消消樂"},     	  	  
 	  {"pkgname":"com.kaiyou.ktwobunny1a","appname":"超級兔子人"},	  	  	  
@@ -54,3 +56,4 @@
 	  {"pkgname":"com.kaiyou.kfoodstreet1a","appname":"真香夜市攤燒烤煎餅果子"}
 	]
 }
+
