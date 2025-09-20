@@ -19,14 +19,16 @@
 	  {"pkgname":"com.lstudio.ltungtung1a","appname":"山海经外国版Tung Tung"},  
 	  {"pkgname":"com.lstudio.l8fangroom1a","appname":"8号出口站台"},   
 	  {"pkgname":"com.lstudio.lstickman3a","appname":"火柴人绳索英雄"}, 
-	  {"pkgname":"com.lstudio.lmonitorman1a","appname":"监控人VS马桶人"},        
+	  {"pkgname":"com.lstudio.lmonitorman1a","appname":"监控人VS马桶人"}, 	  
+	  {"pkgname":"com.lstudio.lcityman1a","appname":"侠盗獵車手"},	     
+	  {"pkgname":"com.lstudio.lbattlewar1a","appname":"史诗战争模拟器"},      
 	  {"pkgname":"com.mobocenter.petblastcool","appname":"寵物消消樂糖果消消樂"},       
 	  {"pkgname":"com.mobocenter.starblastcool","appname":"星星消消樂糖果消消樂"},     	  	  
 	  {"pkgname":"com.kaiyou.ktwobunny1a","appname":"超級兔子人"},	  	  	  
 	  {"pkgname":"com.kaiyou.kcatpop1a","appname":"植物大戰僵屍"},  	  
 	  {"pkgname":"com.kaiyou.kcarrush4a","appname":"車禍模擬器4"},	  		  	  	  
-	  {"pkgname":"com.kaiyou.kforestbattle1a","appname":"獵夢保衛戰"},  	  
-	  {"pkgname":"com.lstudio.lcityman1a","appname":"侠盗獵車手"},	  
+	  {"pkgname":"com.kaiyou.kforestbattle1a","appname":"獵夢保衛戰"},  		  	  	  
+	  {"pkgname":"com.kaiyou.kcarbody1a","appname":"汽车碰撞模拟器"},  
 	  {"pkgname":"com.fmobolove.fhungerisland1a","appname":"饥困荒野饥饿荒岛"},			
 	  {"pkgname":"com.fmobolove.fcarbomb1a","appname":"車禍模擬器-破壞車輛"},		   	  	  
 	  {"pkgname":"com.fmobolove.fcookmeat1a","appname":"玩成大師-沙雕培根"},	 	   	  
@@ -56,5 +58,6 @@
 	  {"pkgname":"com.kaiyou.kfoodstreet1a","appname":"真香夜市攤燒烤煎餅果子"}
 	]
 }
+
 
 
