@@ -23,6 +23,7 @@
 	  {"pkgname":"com.lstudio.lmonitorman1a","appname":"監控人VS馬桶人"}, 	  
 	  {"pkgname":"com.lstudio.lcityman1a","appname":"俠盜獵車手"},	     
 	  {"pkgname":"com.lstudio.lbattlewar1a","appname":"史詩戰爭模擬器"},  
+	  {"pkgname":"com.lstudio.ldadhamburger1a","appname":"老爹汉堡店老爹大排档"},  
 	  {"pkgname":"com.lstudio.lprisonsim1a","appname":"監獄模擬器越獄模擬器"},   
 	  {"pkgname":"com.lstudio.lweaponmaster1a","appname":"火柴人兵器王者"},      
 	  {"pkgname":"com.fmobolove.fghostoffer1a","appname":"猛鬼宿舍-躺平發育"},	  
@@ -39,6 +40,7 @@
 	  {"pkgname":"com.mobocenter.petblastcool","appname":"寵物消消樂糖果消消樂"},       
 	  {"pkgname":"com.mobocenter.starblastcool","appname":"星星消消樂糖果消消樂"},   
 	  {"pkgname":"com.color.by.number.pixel.games","appname":"Color By Number 3D"},	
+	  {"pkgname":"com.kaiyou.kvirusescape1a","appname":"病毒大逃杀搜打撤游戏"},	  	   
 	  {"pkgname":"com.kaiyou.kdinosaurevo1a","appname":"Dinosaur World"},	  	           	  	  
 	  {"pkgname":"com.kaiyou.kpolicesim1a","appname":"GTA Police"},	  	       	  	  
 	  {"pkgname":"com.kaiyou.kstoragehome1a","appname":"超級收納館收納大師"},	  	  	     	  	  
@@ -68,6 +70,7 @@
 	  {"pkgname":"com.kaiyou.kfoodstreet1a","appname":"真香夜市攤燒烤煎餅果子"}
 	]
 }
+
 
 
 
