@@ -40,6 +40,7 @@
 	  {"pkgname":"com.mobocenter.petblastcool","appname":"寵物消消樂糖果消消樂"},       
 	  {"pkgname":"com.mobocenter.starblastcool","appname":"星星消消樂糖果消消樂"},   
 	  {"pkgname":"com.color.by.number.pixel.games","appname":"Color By Number 3D"},	
+	  {"pkgname":"com.kaiyou.khungrywilds1a","appname":"饥饿荒野求生存"},	  
 	  {"pkgname":"com.kaiyou.kvirusescape1a","appname":"病毒大逃杀搜打撤游戏"},	  	   
 	  {"pkgname":"com.kaiyou.kdinosaurevo1a","appname":"Dinosaur World"},	  	           	  	  
 	  {"pkgname":"com.kaiyou.kpolicesim1a","appname":"GTA Police"},	  	       	  	  
@@ -70,6 +71,7 @@
 	  {"pkgname":"com.kaiyou.kfoodstreet1a","appname":"真香夜市攤燒烤煎餅果子"}
 	]
 }
+
 
 
 
