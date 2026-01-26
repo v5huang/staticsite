@@ -25,7 +25,8 @@
 	  {"pkgname":"com.lstudio.lbattlewar1a","appname":"史詩戰爭模擬器"},  
 	  {"pkgname":"com.lstudio.ldadhamburger1a","appname":"老爹汉堡店老爹大排档"},  
 	  {"pkgname":"com.lstudio.lprisonsim1a","appname":"監獄模擬器越獄模擬器"},   
-	  {"pkgname":"com.lstudio.lweaponmaster1a","appname":"火柴人兵器王者"},      
+	  {"pkgname":"com.lstudio.lweaponmaster1a","appname":"火柴人兵器王者"},   
+	  {"pkgname":"com.fmobolove.fcrazychicken1a","appname":"疯狂的鸽子"},	     
 	  {"pkgname":"com.fmobolove.fghostoffer1a","appname":"猛鬼宿舍-躺平發育"},	  
 	  {"pkgname":"com.fmobolove.fearthwar1a","appname":"上帝模擬器-世界盒子"}, 
 	  {"pkgname":"com.fmobolove.fhungerisland1a","appname":"饑困荒野饑餓荒島"},			
@@ -40,6 +41,7 @@
 	  {"pkgname":"com.mobocenter.petblastcool","appname":"寵物消消樂糖果消消樂"},       
 	  {"pkgname":"com.mobocenter.starblastcool","appname":"星星消消樂糖果消消樂"},   
 	  {"pkgname":"com.color.by.number.pixel.games","appname":"Color By Number 3D"},	
+	  {"pkgname":"com.kaiyou.kcleanface1a","appname":"清洁达人清洁大师"},	  
 	  {"pkgname":"com.kaiyou.khungrywilds1a","appname":"饥饿荒野求生存"},	  
 	  {"pkgname":"com.kaiyou.kvirusescape1a","appname":"病毒大逃杀搜打撤游戏"},	  	   
 	  {"pkgname":"com.kaiyou.kdinosaurevo1a","appname":"Dinosaur World"},	  	           	  	  
@@ -71,6 +73,7 @@
 	  {"pkgname":"com.kaiyou.kfoodstreet1a","appname":"真香夜市攤燒烤煎餅果子"}
 	]
 }
+
 
 
 
